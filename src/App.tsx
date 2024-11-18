@@ -130,7 +130,7 @@ const onChangeItem = (itemNumber:number) => {
        onPress={reloadGame}
        >
         <Text style={styles.gameBtnText}>
-          {gameWinner ? 'Start new game' : ' Reload the game'}
+          {gameWinner ? 'Start a new game' : ' Reload the game'}
         </Text>
        </Pressable>
     </SafeAreaView>
