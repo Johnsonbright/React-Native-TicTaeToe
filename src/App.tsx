@@ -205,7 +205,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#8D3DAF',
   },
   gameBtnText: {
-    fontSize: 18,
+    fontSize: 17,
     color: '#FFFFFF',
     fontWeight: '500',
   },
