@@ -200,12 +200,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
 
     padding: 10,
-    borderRadius: 8,
+    borderRadius: 8.2,
     marginHorizontal: 36,
     backgroundColor: '#8D3DAF',
   },
   gameBtnText: {
-    fontSize: 17,
+    fontSize: 16,
     color: '#FFFFFF',
     fontWeight: '500',
   },
