@@ -188,7 +188,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     backgroundColor: '#38CC77',
 
-    shadowOpacity: 0.1,
+    shadowOpacity: 0.2,
   },
   winnerTxt: {
     fontSize: 20,
