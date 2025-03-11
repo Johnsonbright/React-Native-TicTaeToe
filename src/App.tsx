@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#F7CD2E',
   },
   grid: {
-    margin: 12,
+    margin: 12.1,
   },
   card: {
     height: 100,
