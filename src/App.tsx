@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
       height: 1,
     },
     shadowColor: '#333',
-    shadowOpacity: 0.2,
+    shadowOpacity: 0.21,
     shadowRadius: 1.5,
   },
   gameTurnTxt: {
